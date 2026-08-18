@@ -52,14 +52,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **FinTrack** | Comprehensive personal expense tracker with visual analytics & reporting. | Node.js, Express, MySQL | [View Repository](https://github.com/Dilshan1121/FinTrack) |
-| **AaYu** | Digital e-channeling & healthcare appointment management platform. | React, Node.js, Express | [View Repository](https://github.com/Dilshan1121/AaYu) |
-
----
 
 ### 📊 GitHub Statistics
 
