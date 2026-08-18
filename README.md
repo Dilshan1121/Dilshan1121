@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Final-year **Computer Science** undergraduate passionate about engineering reliable software solutions.
+* 🎓 Final-year **Information Technology** undergraduate passionate about engineering reliable software solutions.
 * 💡 Focused on building full-stack applications with scalable backends and modern, intuitive frontends.
 * 🌱 Continuously expanding skills across cloud workflows, API architecture, and interactive systems.
 * ⚡ **Fun Fact:** I bridge the gap between robust backend logic and pixel-perfect design.
